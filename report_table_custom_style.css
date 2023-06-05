@@ -50,7 +50,8 @@
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
 }
 
 table.reportTable th {
