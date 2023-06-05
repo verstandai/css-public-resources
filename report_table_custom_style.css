@@ -52,7 +52,8 @@
   color: #000000;
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
-  /* font-size: 10px;  */
+  font-size: 20px; 
+  width: 100vw;
   /* height: 25px; */
   padding: 5px;
 
