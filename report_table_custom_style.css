@@ -26,8 +26,7 @@
 }
 
 #visContainer {
-  position: relative;
-  z-index: 0;
+  position: relative !important;
 }
 
 .tooltipTable {
@@ -56,7 +55,6 @@
   border-collapse: collapse;
   border-spacing: 3px;
   height: 100%;
-  width: 99%;
 }
 
 table.reportTable th {
